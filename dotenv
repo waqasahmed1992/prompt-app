@@ -1,0 +1,3 @@
+# Create .env file to pass the OpenAI API Key
+# OpenAI API Key
+# REACT_APP_OPENAI_API_KEY=your_openai_api_key_here 
